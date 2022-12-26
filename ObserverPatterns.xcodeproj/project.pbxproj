@@ -24,6 +24,8 @@
 		EC2B17C02958DD5300B1D04F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC2B17C32958DD5300B1D04F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC2B17C52958DD5300B1D04F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECBC45F82959C1A400164B5A /* Observer(Наблюдатель)MadiSpace.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Observer(Наблюдатель)MadiSpace.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		ECBC45F92959C1EA00164B5A /* ObserverRefactoring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ObserverRefactoring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,8 @@
 				EC2B17B72958DD5200B1D04F /* AppDelegate.swift */,
 				EC2B17B92958DD5200B1D04F /* SceneDelegate.swift */,
 				EC2B17BB2958DD5200B1D04F /* ViewController.swift */,
+				ECBC45F92959C1EA00164B5A /* ObserverRefactoring.playground */,
+				ECBC45F82959C1A400164B5A /* Observer(Наблюдатель)MadiSpace.playground */,
 				EC2B17BD2958DD5200B1D04F /* Main.storyboard */,
 				EC2B17C02958DD5300B1D04F /* Assets.xcassets */,
 				EC2B17C22958DD5300B1D04F /* LaunchScreen.storyboard */,
